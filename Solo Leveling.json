@@ -4,5 +4,22 @@
   "artist": "Jang, Sung-rak, Disciples",
   "author": "Chugong",
   "cover": "https://cdn.myanimelist.net/images/manga/1/233547l.jpg",
-  "chapters": {}
+  "chapters": {
+    "0": {
+      "title": "0",
+      "volume": "1",
+      "last_updated": "1705108061",
+      "groups": {
+        "": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Evc29sby1sZXZlbGluZy4yMTcwOC9jMA==/"
+      }
+    },
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1705108007",
+      "groups": {
+        "": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Evc29sby1sZXZlbGluZy4yMTcwOC9jMQ==/"
+      }
+    }
+  }
 }
